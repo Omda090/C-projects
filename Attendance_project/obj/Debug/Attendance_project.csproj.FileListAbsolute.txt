@@ -1,0 +1,9 @@
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\bin\Debug\Attendance_project.exe.config
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\bin\Debug\Attendance_project.exe
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\bin\Debug\Attendance_project.pdb
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\obj\Debug\Attendance_project.csprojResolveAssemblyReference.cache
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\obj\Debug\Attendance_project.Form1.resources
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\obj\Debug\Attendance_project.Properties.Resources.resources
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\obj\Debug\Attendance_project.csproj.GenerateResource.Cache
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\obj\Debug\Attendance_project.exe
+D:\C# projects\C# Advance_projects\Attendance_project\Attendance_project\obj\Debug\Attendance_project.pdb
